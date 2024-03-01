@@ -8,9 +8,9 @@
   - [Switch-Case](#percabangan-switch-case)
   - [Operator Kondisional ( ? : )](#operator-kondisional--)
 - [Soal Latihan](#soal-latihan)
-  - [Latihan 1](#latihan-1)
-  - [Latihan 2](#latihan-2)
-  - [Latihan 3](#latihan-3)
+  - [Latihan 1](#soal-1)
+  - [Latihan 2](#soal-2)
+  - [Latihan 3](#soal-3)
 
 # Control Flow
 
@@ -248,6 +248,8 @@ public class Main {
     }
 }
 ```
+
+[< Kembali ke Daftar Isi](#daftar-isi)
 
 # Soal Latihan
 
