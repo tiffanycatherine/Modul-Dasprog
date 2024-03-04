@@ -25,6 +25,9 @@
 
   - [Tipe Bilangan Bulat (integer)](#tipe-bilangan-bulat-integer)
   - [Tipe Bilangan Real (floating)](#tipe-bilangan-real-floating)
+  - [Tipe Data Boolean](#tipe-data-boolean)
+  - [Tipe Data String](#tipe-data-string)
+  - [Tipe Data Char](#tipe-data-char)
 
 - [Operator Aritmatika](#operator-Aritmatika)
 
@@ -258,14 +261,52 @@ Seperti namanya, tipe-tipe data di atas adalah tipe data yang digunakan untuk me
 
 Jika diperhatikan, terdapat dua jenis tipe data antara lain **signed** dan **unsigned**. Lalu apa perbedaan dari kedua jenis tersebut? Perbedaannya adalah terletak pada kemampuan untuk menampung bilangan negatif. **signed** dapat menampung bilangan negatif, sedangkan **unsigned** tidak.
 
+Contoh:
+```java
+int nilai = 2;
+```
+
 ## Tipe Bilangan Real (floating)
 
 Bilangan Real atau floating-point adalah bilangan yang mempunyai nilai pecahan (real). Tipe data bilangan real pada bahasa Java di antaranya adalah sebagai berikut.
 ![cek tabel tipe bilangan real (floating)](https://github.com/JagoTeknikCourse/Modul-Dasprog/blob/main/img/tipe-data-real.md)
 
 Tipe data di atas digunakan untuk menyimpan data berupa bilangan real (floating-point)/bilangan berkoma. Misalnya, `2.35, -12.246, 0.005` dsb.
-[< Kembali ke Daftar Isi](#daftar-isi)
 
+Contoh:
+```java
+float nilai1 = 2.47;
+double nilai2 = 2.22;
+```
+
+## Tipe Data Boolean
+
+Tipe Data Boolean
+Tipe data boolean digunakan untuk menyimpan nilai kebenaran, yaitu `true` atau `false`. Tipe data ini sering digunakan dalam struktur pengkondisian dan pengulangan.
+
+Contoh:
+```java
+boolean benar = true;
+boolean salah = false;
+```
+
+## Tipe Data String
+Tipe data string digunakan untuk menyimpan urutan karakter. Dalam Java, string didefinisikan sebagai kelas, namun ada juga cara mudah untuk membuat string tanpa harus menggunakan operator `new`.
+
+Contoh:
+```java
+String kata1 = "Halo, ";
+String kata2 = "Java!";
+```
+
+## Tipe Data Char
+Tipe data char digunakan untuk menyimpan satu karakter. Dalam Java, karakter diapit oleh tanda kutip tunggal (`'`).
+
+Contoh:
+```java
+char karakter = 'A';
+```
+[< Kembali ke Daftar Isi](#daftar-isi)
 # Operator Aritmatika
 
 ## Operator Assignment
