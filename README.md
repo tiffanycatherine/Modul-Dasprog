@@ -29,3 +29,14 @@
   - Switch-Case
 - Operator Kondisional ( ? : )
 - Latihan
+
+### Modul 4: Perulangan
+
+- Perulangan
+  - While
+  - Do-While
+  - For
+  - Perulangan Bersarang
+- Break dan Continue
+- Infinite Loop
+Latihan
