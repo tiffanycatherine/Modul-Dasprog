@@ -40,3 +40,19 @@
 - Break dan Continue
 - Infinite Loop
 Latihan
+
+### Modul 5: Fungsi dan Array 1 Dimensi
+
+
+- Fungsi
+  - Visibilitas Fungsi
+  - Fungsi Void
+  - Fungsi Return
+  - Parameter
+  - Pemanggilan Fungsi
+- Array 1D
+  - Deklarasi Array
+  - Inisialisasi Array
+  - Mengakses Array
+- Latihan
+
