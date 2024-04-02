@@ -45,9 +45,9 @@ Latihan
 
 
 - Fungsi
-  - Visibilitas Fungsi
-  - Fungsi Void
-  - Fungsi Return
+  - Pengenalan dan Konstruksi Fungsi
+  - Access Modifier
+  - Return Type
   - Parameter
   - Pemanggilan Fungsi
 - Array 1D
