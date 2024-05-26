@@ -89,3 +89,28 @@
   - Latihan 2: Enkapsulasi
   - Latihan 3: Pewarisan
   - Latihan 4: Polimorfisme
+
+### Modul 8: Execption & Rekursif
+
+- Exception Handling
+  - Blok Try-Catch
+  - Blok Finally
+  - Throws dan Throw
+- Teori Rekursif dalam Pemrograman
+  - Base Case
+  - Recursive Case
+  - Struktur Umum Fungsi Rekursif
+  - Contoh Rekursif: Faktorial
+    - Ilustrasi Faktorial
+    - Implementasi Rekursif
+    - Diagram Rekursif untuk Faktorial 3
+  - Contoh Rekursif: Fibonacci
+    - Ilustrasi Fibonacci
+    - Implementasi Rekursif
+    - Diagram Rekursif untuk Fibonacci 3
+- Soal Latihan Exception Handling
+  - Latihan 1: Pembagian dengan Exception Handling
+  - Latihan 2: Array Index Out of Bounds
+- Soal Latihan Rekursif
+  - Latihan 1: Menghitung Pangkat Rekursif
+  - Latihan 2: Menghitung Jumlah Angka Rekursif
