@@ -1,5 +1,3 @@
-## Modul Pembelajaran Jago Teknik
-
 ## Modul Dasar Pemrograman Java
 
 ### Modul 1: Pengenalan Pemrograman Java
